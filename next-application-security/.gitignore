@@ -75,6 +75,9 @@ buildNumber.properties
 .idea/modules
 .idea/misc.xml
 .idea/vcs.xml
+.idea/libraries
+.idea/encodings.xml
+.idea/jpa-buddy.xml
 *.iml
 *.ipr
 
